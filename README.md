@@ -1,3 +1,5 @@
 # superdataeng
 
-Please see main.py to view transformed data
+Please see main.py to view table transformation.
+
+- Note could parallelize transformations in future
